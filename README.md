@@ -1,7 +1,3 @@
-This is a repostory for course: https://www.udemy.com/course/machine-learning-disease-prediction-and-drug-recommendation/?couponCode=KEEPLEARNING
-
-Download Anaconda from Anacond Archieve (https://repo.anaconda.com/archive/): Below is the exactly link we used 
-https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe
 
 Download DBBrowser for SQLITE database
 https://sqlitebrowser.org/dl/
