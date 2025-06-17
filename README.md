@@ -1,5 +1,4 @@
-
-Download DBBrowser for SQLITE database
+gitDownload DBBrowser for SQLITE database
 https://sqlitebrowser.org/dl/
 
 Technologies used:
@@ -19,7 +18,7 @@ NOTE: Make sure your Anacond has sckit-learn==1.2.2 (To see this, open anaconda 
 
 # Quick Way To Run project
 Open CMD/cterminal then clone the repository, 
-# git clone https://github.com/MoTechStore/Machine-Learning-Disease-Prediction-And-Drug-Recommendation.git
+
 then create Python virtual environment 
 # python -m venv venv 
 then change directory to system 
